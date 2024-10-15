@@ -9,8 +9,8 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 
-	<groupId>com.appointment.services</groupId>
-	<artifactId>appointment-discovery</artifactId>
+	<groupId>com.tenant.services</groupId>
+	<artifactId>mmr-discovery</artifactId>
 	<version>0.0.1</version>
 	<name>emr-discovery</name>
 	<description>Demo project for Spring Boot</description>
